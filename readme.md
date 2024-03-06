@@ -1,3 +1,5 @@
+![alt text](logowithtext.png)
+
 # This is a minigame Inspired by NoPixel
 
 ![Symbols, Letter & Numbers](image.png)
