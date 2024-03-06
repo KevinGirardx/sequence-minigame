@@ -1,3 +1,8 @@
+# This is a minigame Inspired by NoPixel
+
+![Symbols, Letter & Numbers](image.png)
+![Letters](image-1.png)
+
 # Useage:
 
 ```lua
