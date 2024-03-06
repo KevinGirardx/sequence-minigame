@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    /* background-image: url('https://cdn.discordapp.com/attachments/1106092937948962817/1213084143513243688/background.png?ex=65f42fa5&is=65e1baa5&hm=0fc82696d21d6c7ebc714d9bbb423f54c6e2631138f02bd014198e50ed9643d2&');
+    background-size: cover;
+    /* background-repeat: no-repeat; */ /* Used for dev invironment testing */
+}
