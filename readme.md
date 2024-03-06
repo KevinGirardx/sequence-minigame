@@ -4,7 +4,7 @@
 
 ![Symbols, Letter & Numbers](image.png)
 ![Letters](image-1.png)
-
+![Pass](image-2.png)
 # Useage:
 
 ```lua
